@@ -1,4 +1,4 @@
-## Hi, I'm Dinesh Chandr 👋
+## Hi, I'm Dinesh Chandra 👋
 
 AI Engineer at **Synthlinx Pvt Ltd**, Bengaluru. I build production AI systems — focus on LLM applications, RAG pipelines, multi-agent orchestration, and applied agentic systems.
 
