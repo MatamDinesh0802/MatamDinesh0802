@@ -1,36 +1,92 @@
-## Hi, I'm Dinesh Chandra 👋
+<h1 align="center">
+  Hi, I'm Matam Dinesh Chandra
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+</h1>
 
-AI Engineer at **Synthlinx Pvt Ltd**, Bengaluru. I build production AI systems — focus on LLM applications, RAG pipelines, multi-agent orchestration, and applied agentic systems.
+<p align="center">
+  <a href="https://github.com/MatamDinesh0802">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Applied+AI+Engineer+%40+Synthlinx;Agentic+AI+%26+Multi-Agent+Systems;RAG+%C2%B7+LLM+Evaluation+%C2%B7+Guardrails;I+build+%26+ship+production+AI+systems" alt="Typing SVG" />
+  </a>
+</p>
 
-### What I'm working on right now
+<p align="center">
+  I build and ship <b>production AI systems</b> — LLM applications, RAG pipelines, multi-agent orchestration, and applied agentic systems.
+</p>
 
-- **Adaptive Intelligent Migration (AIM)** — a polyglot LLM-driven data-migration platform for legacy core-banking modernization. Tech: Python 3.14, Go, Rust (PyO3), Temporal, pgvector, Polars, FastAPI, Next.js. Live with active enterprise migrations.
-- **UK Logistics Multi-Agent System** — a LangGraph-based multi-agent system for shipment cost optimization, delivered to a UK pharmaceutical distributor via Microsoft Copilot Studio + Microsoft Teams. Live in production.
+<p align="center">
+  <a href="https://www.linkedin.com/in/matam-dinesh-chandra-bab5bb261/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:matamdinesh0802@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://sentinel-ai-governance.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-Sentinel-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=MatamDinesh0802&style=for-the-badge&color=0A66C2" alt="profile views">
+</p>
+
+---
+
+### 🔦 Featured — open-source
+
+**[Sentinel — AI Agent Governance Runtime](https://github.com/MatamDinesh0802/Sentinel-AI-Governance)** — a runtime governance firewall for AI-agent tool calls. It intercepts calls at the **MCP** boundary, runs **10 guardrail evals** (8 deterministic + 2 LLM-judge), quarantines risky calls, and writes every decision to a tamper-proof **Ed25519 hash-chained audit ledger**. Python · FastAPI · MCP proxy · LiteLLM · Streamlit SOC console.
+👉 **[Live demo](https://sentinel-ai-governance.streamlit.app/)** · **[Source](https://github.com/MatamDinesh0802/Sentinel-AI-Governance)**
+
+### 🏗️ What I'm building at Synthlinx
+
+- **Adaptive Intelligent Migration (AIM)** — an LLM-driven data-migration platform for legacy core-banking modernization. Python, FastAPI, Temporal, pgvector, Polars. Live with active enterprise migrations.
+- **Logistics Multi-Agent System** — a LangGraph multi-agent system for shipment cost optimization, delivered to an enterprise logistics client via Microsoft Copilot Studio + Microsoft Teams. Live in production.
 - **Code Impact Analyzer** — a LangGraph + RAG system for legacy PL/I and VB6 modernization, deployed on AWS ECS Fargate.
+- **Abhay** — core multi-agent QA/QC pipeline (PydanticAI → vLLM) for a multi-tenant SaaS, with signed Kafka audit trails and Keycloak multi-tenancy.
 
-> Most production work lives in private repositories. The repos on this profile are personal projects, freelance work, and learning code.
+> Most production work lives in private repositories. The public repos here are personal projects, freelance work, and refreshed learning code.
 
-### Tech I work with
+### 🛠️ Tech I work with
 
-**Languages:** Python · TypeScript · SQL  
-**LLM/AI:** LangChain · LangGraph · Pydantic AI · Instructor · OpenAI · Gemini · Anthropic · LLAMA · FAISS · pgvector · Tesseract OCR · Sentence-Transformers  
-**Backend:** FastAPI · SQLAlchemy · PostgreSQL · MongoDB · Redis · Kafka · Temporal  
-**Frontend:** React · Next.js · Streamlit  
-**Infra:** Docker · AWS (ECS / ECR / EFS) · Azure (ACR / Blob) · GCP (Vision)  
-**Practices:** RAG (FAISS, pgvector) · Multi-agent supervisors · Function calling · Prompt engineering · LLM evaluation · MLOps basics
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white">
+  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-### Background
+### 📊 Languages I code in
 
-- 🎓 **B.Tech in AI & Machine Learning** — New Horizon College of Engineering (CGPA 9.07/10)
-- 🛠️ **Past:** AI Intern @ Krutrim (Ola), BA Intern @ Quantiphi, Freelance AI Developer
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatamDinesh0802&layout=compact&theme=tokyonight&hide=css,shell,html&langs_count=6&card_width=480" alt="Most used languages" />
+
+<!-- OPTIONAL — only add this once Sentinel has a few stars; right now it shows 0 stars and looks thin:
+<img src="https://github-readme-stats.vercel.app/api?username=MatamDinesh0802&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="400px" alt="github stats">
+-->
+
+### 🎓 Background
+
+- 🎓 **B.E. in AI & Machine Learning** — New Horizon College of Engineering (CGPA 9.07/10)
+- 🛠️ **Past:** AI Intern @ Krutrim (Ola) · BA Intern @ Quantiphi · Freelance AI Developer
 - 📜 **Patent filed:** Herb Detection System (CV + LLM medicinal-insight pipeline)
 
-### Currently learning
+### 🌱 Currently exploring
 
 - Distributed systems & ML system design
 - Production LLM evaluation & benchmarking frameworks
-- Data structures & algorithms (interview prep)
+- Agent reliability, guardrails & observability
 
-### Connect
+### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/matam-dinesh-chandra-bab5bb261/) · 📧 matamdinesh0802@gmail.com
