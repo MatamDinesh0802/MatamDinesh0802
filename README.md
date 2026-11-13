@@ -27,6 +27,11 @@
 **[Sentinel — AI Agent Governance Runtime](https://github.com/MatamDinesh0802/Sentinel-AI-Governance)** — a runtime governance firewall for AI-agent tool calls. It intercepts calls at the **MCP** boundary, runs **10 guardrail evals** (8 deterministic + 2 LLM-judge), quarantines risky calls, and writes every decision to a tamper-proof **Ed25519 hash-chained audit ledger**. Python · FastAPI · MCP proxy · LiteLLM · Streamlit SOC console.
 👉 **[Live demo](https://sentinel-ai-governance.streamlit.app/)** · **[Source](https://github.com/MatamDinesh0802/Sentinel-AI-Governance)**
 
+<!-- NeedWise: uncomment on launch day, once the repo is public.
+**[NeedWise — Permission-Aware AI](https://github.com/MatamDinesh0802/NeedWise)** — an open-source, self-hosted enterprise AI assistant that answers only from what each person is allowed to see, with a citation on every claim. Department agents, human-approved actions, meeting intelligence and text-to-SQL. **0 permission leaks across 59 attacks**, 81/82 benchmark answers fully correct. FastAPI · Next.js · Postgres RLS · Qdrant · OpenFGA · Keycloak · Claude.
+👉 **[Source](https://github.com/MatamDinesh0802/NeedWise)**
+-->
+
 ### 🏗️ What I'm building at Synthlinx
 
 - **Adaptive Intelligent Migration (AIM)** — an LLM-driven data-migration platform for legacy core-banking modernization. Python, FastAPI, Temporal, pgvector, Polars. Live with active enterprise migrations.
@@ -36,22 +41,35 @@
 
 > Most production work lives in private repositories. The public repos here are personal projects, freelance work, and refreshed learning code.
 
+### 🧪 More projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Plant Pathology Diagnosis](https://github.com/MatamDinesh0802/Plant-Pathology-Diagnosis-VGG16) | Classifies 4 apple-leaf disease classes from photos with a fine-tuned VGG16 | Keras · ONNX · Streamlit |
+| [Speech Emotion Recognition](https://github.com/MatamDinesh0802/Speech-Emotion-Recognition-LSTM) | Detects 6 emotions from short voice clips with a 2-layer LSTM trained on CREMA-D | Keras · librosa · ONNX · Streamlit |
+| [Parkinson's Disease Detection](https://github.com/MatamDinesh0802/Parkinsons-Disease-Detection-SVM) | Screens 22 voice biomarkers with an SVM and 4 baselines, explained with SHAP | scikit-learn · SHAP · Streamlit |
+| [AI Mastery Roadmap](https://github.com/MatamDinesh0802/AI-MASTERY-ROADMAP) · [live](https://matamdinesh0802.github.io/AI-MASTERY-ROADMAP/) | A 1,360+ concept AI/ML learning system driven by Claude Code | Claude Code · GitHub Pages |
+
 ### 🛠️ Tech I work with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white">
   <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
@@ -60,6 +78,7 @@
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
@@ -80,6 +99,7 @@
 - 🎓 **B.E. in AI & Machine Learning** — New Horizon College of Engineering (CGPA 9.07/10)
 - 🛠️ **Past:** AI Intern @ Krutrim (Ola) · BA Intern @ Quantiphi · Freelance AI Developer
 - 📜 **Patent filed:** Herb Detection System (CV + LLM medicinal-insight pipeline)
+- 🚀 **2026 hackathons:** Azentio AI Hackathon, an AI RFP response agent with nine department agents · Azentio Build Labs, the azentio.ai collaboration portal (with Suhail Shaik)
 
 ### 🌱 Currently exploring
 
