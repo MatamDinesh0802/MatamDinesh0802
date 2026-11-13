@@ -24,13 +24,11 @@
 
 ### 🔦 Featured — open-source
 
+**[NeedWise — Permission-Aware AI](https://github.com/MatamDinesh0802/NeedWise)** — an open-source, self-hosted enterprise AI assistant that answers only from what each person is allowed to see, with a citation on every claim. Department agents, human-approved actions, meeting intelligence and text-to-SQL. **0 permission leaks across 68 attacks**, 81/82 benchmark answers fully correct, 3,300+ automated tests. FastAPI · Next.js · Postgres RLS · Qdrant · OpenFGA · Keycloak · Claude or Gemini.
+👉 **[Source](https://github.com/MatamDinesh0802/NeedWise)** · **[2-min demo](https://github.com/MatamDinesh0802/NeedWise/blob/main/docs/media/demo.mp4)**
+
 **[Sentinel — AI Agent Governance Runtime](https://github.com/MatamDinesh0802/Sentinel-AI-Governance)** — a runtime governance firewall for AI-agent tool calls. It intercepts calls at the **MCP** boundary, runs **10 guardrail evals** (8 deterministic + 2 LLM-judge), quarantines risky calls, and writes every decision to a tamper-proof **Ed25519 hash-chained audit ledger**. Python · FastAPI · MCP proxy · LiteLLM · Streamlit SOC console.
 👉 **[Live demo](https://sentinel-ai-governance.streamlit.app/)** · **[Source](https://github.com/MatamDinesh0802/Sentinel-AI-Governance)**
-
-<!-- NeedWise: uncomment on launch day, once the repo is public.
-**[NeedWise — Permission-Aware AI](https://github.com/MatamDinesh0802/NeedWise)** — an open-source, self-hosted enterprise AI assistant that answers only from what each person is allowed to see, with a citation on every claim. Department agents, human-approved actions, meeting intelligence and text-to-SQL. **0 permission leaks across 59 attacks**, 81/82 benchmark answers fully correct. FastAPI · Next.js · Postgres RLS · Qdrant · OpenFGA · Keycloak · Claude.
-👉 **[Source](https://github.com/MatamDinesh0802/NeedWise)**
--->
 
 ### 🏗️ What I'm building at Synthlinx
 
