@@ -99,7 +99,8 @@
 - 🎓 **B.E. in AI & Machine Learning** — New Horizon College of Engineering (CGPA 9.07/10)
 - 🛠️ **Past:** AI Intern @ Krutrim (Ola) · BA Intern @ Quantiphi · Freelance AI Developer
 - 📜 **Patent filed:** Herb Detection System (CV + LLM medicinal-insight pipeline)
-- 🚀 **2026 hackathons:** Azentio AI Hackathon, an AI RFP response agent with nine department agents · Azentio Build Labs, the azentio.ai collaboration portal (with Suhail Shaik)
+- 🏆 **Runner-up, Azentio AI Hackathon 2026 (₹90,000 prize):** an AI RFP response agent that drafts cited answers per requirement with nine department agents (team dualmind ai)
+- 🚀 **Azentio Build Labs 2026:** the azentio.ai collaboration portal, with Suhail Shaik
 
 ### 🌱 Currently exploring
 
