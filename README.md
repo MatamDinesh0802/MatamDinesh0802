@@ -41,15 +41,6 @@
 
 > Most production work lives in private repositories. The public repos here are personal projects, freelance work, and refreshed learning code.
 
-### 🧪 More projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Plant Pathology Diagnosis](https://github.com/MatamDinesh0802/Plant-Pathology-Diagnosis-VGG16) | Classifies 4 apple-leaf disease classes from photos with a fine-tuned VGG16 | Keras · ONNX · Streamlit |
-| [Speech Emotion Recognition](https://github.com/MatamDinesh0802/Speech-Emotion-Recognition-LSTM) | Detects 6 emotions from short voice clips with a 2-layer LSTM trained on CREMA-D | Keras · librosa · ONNX · Streamlit |
-| [Parkinson's Disease Detection](https://github.com/MatamDinesh0802/Parkinsons-Disease-Detection-SVM) | Screens 22 voice biomarkers with an SVM and 4 baselines, explained with SHAP | scikit-learn · SHAP · Streamlit |
-| [AI Mastery Roadmap](https://github.com/MatamDinesh0802/AI-MASTERY-ROADMAP) · [live](https://matamdinesh0802.github.io/AI-MASTERY-ROADMAP/) | A 1,360+ concept AI/ML learning system driven by Claude Code | Claude Code · GitHub Pages |
-
 ### 🛠️ Tech I work with
 
 <p align="left">
